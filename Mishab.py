@@ -98,3 +98,5 @@ for i in range(len(pred)):
 
 
 print(pred[3], y_test[3])
+
+# 07.04.2023p.
